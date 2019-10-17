@@ -11,4 +11,4 @@ XD的查流量是一件很麻烦的事情，打联盟卡的时候总是不清楚
 3.GO!
 
 ### Output Example
-ID:111111111    已用流量:10.000GB       剩余流量:0GB# XD-stu-Query
+ID:111111111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;已用流量:10.000GB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;剩余流量:0GB
